@@ -1,0 +1,17 @@
+{
+  "recerdo.ambient": {
+    "sounds": [
+      "servermod:entity/recerdo/ambient"
+    ]
+  },
+  "recerdo.hurt": {
+    "sounds": [
+      "servermod:entity/recerdo/hurt"
+    ]
+  },
+  "recerdo.death": {
+    "sounds": [
+      "servermod:entity/recerdo/death"
+    ]
+  }
+}

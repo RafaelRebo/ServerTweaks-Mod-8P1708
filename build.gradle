@@ -79,7 +79,8 @@ dependencies {
     minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
 
     compileOnly fg.deobf(files("libs/Vampirism-1.19.2-1.9.5.jar"))
-
+    compileOnly fg.deobf(files("libs/curios-forge-1.19.2-5.1.6.4.jar"))
+    compileOnly fg.deobf(files("libs/geckolib-forge-1.19-3.1.40.jar"))
 }
 
 sourceSets.main.resources {

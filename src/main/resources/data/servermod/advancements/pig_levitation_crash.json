@@ -1,0 +1,26 @@
+{
+  "parent": "servertweaks:servertweaks/random_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:porkchop"
+    },
+    "title": {
+      "text": "Cerdos voladores"
+    },
+    "description": {
+      "text": "Mata a un cerdo in El_Tito_Samu's way (un poco de levitación)"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pig_levitation_crash": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    ["pig_levitation_crash"]
+  ]
+}

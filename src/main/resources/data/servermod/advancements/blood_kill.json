@@ -2,15 +2,14 @@
   "parent": "servertweaks:servertweaks/vampire_root",
   "display": {
     "icon": {
-      "item": "minecraft:redstone"
+      "item": "vampirism:pure_blood_0"
     },
     "title": {
-      "text": "Blood Hunter"
+      "text": "Disparo letal"
     },
     "description": {
-      "text": "Kill a creature using the Vampirism blood projectile."
+      "text": "Mata una criatura con el proyectil de Sangre Oscura"
     },
-    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

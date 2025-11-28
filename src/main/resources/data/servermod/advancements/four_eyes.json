@@ -1,0 +1,17 @@
+{
+"parent": "servertweaks:servertweaks/random_root",
+  "display": {
+    "icon": { "item": "create:goggles" },
+    "title": { "text": "Cuatro Ojos" },
+    "description": { "text": "Equípate las gafas de Create tanto en la cabeza como en el slot Curios de la cabeza, ¿por qué no?" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

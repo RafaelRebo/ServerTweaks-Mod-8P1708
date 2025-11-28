@@ -1,4 +1,4 @@
-package com.octopusi.servermod;
+package com.octopusi.servermod.advancements;
 
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.resources.ResourceLocation;
@@ -8,6 +8,8 @@ import net.minecraft.world.damagesource.DamageSource;
 import net.minecraftforge.event.entity.living.LivingDeathEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
+
+import com.octopusi.servermod.ServerMod;
 
 // Vampirism imports (ajusta el paquete real si es distinto)
 import de.teamlapen.vampirism.entity.DarkBloodProjectileEntity;
